@@ -1,0 +1,9 @@
+[package]
+name = "azumanga/Otter"
+description = "An animation package for Roblox."
+license = "MIT"
+authors = ["azumanga"]
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+include = ["default.project.json", "src"]
