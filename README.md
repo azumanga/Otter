@@ -64,3 +64,7 @@ end
 updateMotor()
 mouse.Move:Connect(updateMotor)
 ```
+
+## License
+This package uses the MIT License. You may find it by viewing the LICENSE file in the repository.
+(I am not sure what license Otter actually uses)
