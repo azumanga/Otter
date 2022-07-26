@@ -1,4 +1,4 @@
-<h1 align="center">Roact</h1>
+<h1 align="center">Otter</h1>
 
 <div align="center">
 	An animation module for Roblox interface, with Signals, Motors, and Springs.
